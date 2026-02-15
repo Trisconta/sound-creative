@@ -1,0 +1,8 @@
+
+
+
+from titlecase import titlecase
+
+title = titlecase("through the atmosphere of walking on the moon")
+print(title)
+
